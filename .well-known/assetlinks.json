@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.raheempetcare.app",
+      "sha256_cert_fingerprints": [
+        "F0:F4:90:A7:BB:15:3B:18:D9:F8:9D:7E:8A:C7:3D:95:29:7D:B1:C9:2E:04:FA:A7:E7:27:36:13:51:65:56:B2"
+      ]
+    }
+  }
+]
